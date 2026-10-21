@@ -1,0 +1,6 @@
+{
+  "name": "AICTE SAKSHAM",
+  "description": "Approval Workflow Automation, Compliance Monitoring and Alert Management System for AICTE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
